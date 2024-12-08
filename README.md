@@ -17,12 +17,12 @@ Instructions:
 
 2.Ensure that the following libraries are installed:
 
-pandas
+[pandas
 numpy
 sklearn
 seaborn
 matplotlib
-kneed
+kneed]
 3.Open the Jupyter Notebook (kmeans_tutorial.ipynb), run the cells, and explore the results.
 
 4.Check the tutorial.pdf for detailed explanations.
