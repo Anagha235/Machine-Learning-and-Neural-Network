@@ -23,6 +23,7 @@ sklearn
 seaborn
 matplotlib
 kneed]
+
 3.Open the Jupyter Notebook (kmeans_tutorial.ipynb), run the cells, and explore the results.
 
 4.Check the tutorial.pdf for detailed explanations.
