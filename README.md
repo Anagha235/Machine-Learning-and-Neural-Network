@@ -33,10 +33,13 @@ Gender (converted to numerical values)
 Age
 Annual Income (k$)
 Spending Score (1-100)
+
 Remarks:
 
 The notebook shows how to use both Euclidean distance and Cosine similarity with K-means clustering.
+
 To assess the quality of the clustering, silhouette score is calculated.
+
 High-dimensional data is visualized in two dimensions using PCA-assisted dimensionality reduction.
 
 
