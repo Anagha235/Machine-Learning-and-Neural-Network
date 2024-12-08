@@ -17,11 +17,11 @@ Instructions:
 
 2.Ensure that the following libraries are installed:
 
-[pandas
-numpy
-sklearn
-seaborn
-matplotlib
+[pandas,
+numpy,
+sklearn,
+seaborn,
+matplotlib,
 kneed]
 
 3.Open the Jupyter Notebook (kmeans_tutorial.ipynb), run the cells, and explore the results.
